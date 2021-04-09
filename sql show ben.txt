@@ -1,0 +1,2 @@
+Q1: SELECT COUNT(*) FROM city WHERE CountryCode = "USA";
+Q2: SELECT LifeExpectency, Population FROM country WHERE Code = "ARG";
